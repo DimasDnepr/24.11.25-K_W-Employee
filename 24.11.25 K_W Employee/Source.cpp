@@ -1,4 +1,7 @@
-﻿#include<iostream>
+﻿//Створіть класс Employee (name - string, age - unsigned short, salary - float )
+//Створіть список співробітників використовуйте методи push_front, push_back, insert, erase
+//Вивод співробітників
+#include<iostream>
 #include<list>
 #include"Employee.h"
 //#include<forward_list>
